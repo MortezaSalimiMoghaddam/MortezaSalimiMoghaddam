@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MortezaSalimiMoghaddam
 - 👀 I’m interested in algorithmic thinking
-- 🌱 I’m currently learning back-end coding
-- 💞️ I’m looking to collaborate on back-end projects in general
-- 📫 How to reach me : try not to :)
+- 🌱 I’m currently learning FPGA cicrcuit design
+- 💞️ I’m looking to collaborate on FPGA & embedded C projects in general
+
 
 <!---
 MortezaSalimiMoghaddam/MortezaSalimiMoghaddam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

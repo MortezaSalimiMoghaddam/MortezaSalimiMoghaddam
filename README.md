@@ -2,7 +2,7 @@
 - 👀 I'm interested in algorithmic thinking
 - 🌱 I'm currently learning FPGA cicrcuit design
 - 💞️ I'm looking to collaborate on FPGA & embedded C projects
-- ✌  Contact me through [my Linkedin account](linkedin.com/in/morteza-salimi-moghadam)
+- ✌  Contact me through [my Linkedin account](https://linkedin.com/in/morteza-salimi-moghadam)
 
 
 <!---

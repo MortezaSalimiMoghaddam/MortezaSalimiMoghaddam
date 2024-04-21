@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @MortezaSalimiMoghaddam
-- 👀 I’m interested in algorithmic thinking
-- 🌱 I’m currently learning FPGA cicrcuit design
-- 💞️ I’m looking to collaborate on FPGA & embedded C projects in general
+- 👋 Hi, I'm Morteza SalimiMoghaddam
+- 👀 I'm interested in algorithmic thinking
+- 🌱 I'm currently learning FPGA cicrcuit design
+- 💞️ I'm looking to collaborate on FPGA & embedded C projects
+- ✌  Contact me through linkedin.com/in/morteza-salimi-moghadam
 
 
 <!---

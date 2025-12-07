@@ -33,7 +33,7 @@ Currently exploring anti-spoof GNSS receivers for GPS, Galileo, Beidou, Glonass 
 ![FPGA](https://img.shields.io/badge/FPGA-Xilinx%20Zynq-006399?logo=xilinx&logoColor=white)
 ![SoC](https://img.shields.io/badge/SoC-ARM%20Cortex-4B0082?logo=arm&logoColor=white)
 
-- ✌  Contact me through [my Linkedin account](https://linkedin.com/in/morteza-salimi-moghadam)
+- ✌  Contact me through [my Linkedin account]([https://linkedin.com/in/morteza-salimi-moghadam](https://www.linkedin.com/in/morteza-salimi-moghadam-799373225/))
 
 
 <!---
